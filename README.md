@@ -113,9 +113,6 @@ $ cat goals.txt
 <br/>
 <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nunnavamsi&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nunnavamsi&theme=onedark&no-frame=true&row=1&column=6&margin-w=12" />
 
 </div>
 

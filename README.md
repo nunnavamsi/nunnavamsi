@@ -1,120 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff9c&height=230&section=header&text=NUNNA%20VAMSI&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=60&descSize=18" width="100%"/>
+# NUNNA VAMSI
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Flutter+%26+Dart+Developer;Cybersecurity+Enthusiast;Exploring+AI+Agents+%26+Automation;Build.+Secure.+Innovate." alt="Typing Animation"/>
-</a>
+### Full-Stack Developer · Flutter Developer · Cybersecurity Enthusiast
+
+*Building useful software. Exploring AI. Developing with security in mind.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nunnavamsi&label=Profile+Views&color=00ff9c&style=for-the-badge"/>
+[GitHub](https://github.com/nunnavamsi) · [Repositories](https://github.com/nunnavamsi?tab=repositories) · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=3&section=header" width="100%" alt="Divider"/>
 
 </div>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I'm a developer interested in building practical applications, developing backend systems, and exploring application security.
 
-```python
-developer = {
-    "name": "Nunna Vamsi",
-    "role": "Full-Stack Developer",
-    "interests": [
-        "Application Security",
-        "Flutter Development",
-        "AI Agents",
-        "Cybersecurity"
-    ],
-    "motto": "Build. Secure. Innovate."
-}
-```
+My interests span full-stack development, cross-platform mobile applications, AI-assisted development, and secure software engineering.
 
-💻 Building full-stack web and mobile applications.  
-📱 Developing cross-platform apps using Flutter & Dart.  
-🔐 Exploring application security and ethical hacking.  
-🤖 Interested in AI agents, automation, and secure development.
+- **Development:** Building web applications, REST APIs, and mobile apps.
+- **Mobile:** Creating cross-platform applications with Flutter and Dart.
+- **Security:** Learning web application security and vulnerability assessment.
+- **AI:** Exploring AI agents and development automation.
 
 ---
 
-## ⚡ Tech Stack
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, Dart, JavaScript, TypeScript, SQL |
+| Backend | Django, Django REST Framework, FastAPI |
+| Frontend | React, HTML, CSS |
+| Mobile | Flutter |
+| Databases | PostgreSQL, Redis, SQLite |
+| Tools | Git, GitHub, Docker, Linux |
+| Security | Burp Suite, Nmap, Wireshark, OWASP ZAP, Kali Linux |
+
+---
+
+## Featured Projects
+
+### BudgetBuddy
+**Privacy-focused personal expense tracker**
+
+A Flutter application designed to help users manage expenses while keeping financial data on their device.
+
+- Local database storage and encrypted data protection.
+- SMS-based transaction detection.
+- Expense categorization and financial insights.
+- PDF and Excel report exports.
+- Light and dark themes.
+
+[Explore my repositories →](https://github.com/nunnavamsi?tab=repositories)
+
+### Full-Stack Development
+**Web applications and backend services**
+
+Exploring application development using Python, Django, REST APIs, React, and relational databases.
+
+[View repositories →](https://github.com/nunnavamsi?tab=repositories)
+
+### Application Security
+**Web security and vulnerability analysis**
+
+Practicing security fundamentals, learning common web vulnerabilities, and exploring tools for authorized security testing.
+
+[Explore projects →](https://github.com/nunnavamsi?tab=repositories)
+
+---
+
+## Security & AI Interests
+
+**Application Security**
+- OWASP Top 10
+- Web application testing
+- Vulnerability identification
+- Secure coding practices
+- Network reconnaissance
+
+**AI-Assisted Development**
+- AI agents and automation
+- Developer productivity
+- Automated code analysis
+- Security-focused experimentation
+
+---
+
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flutter,dart,react,js,ts,postgres,redis,docker,git,github,linux,vscode&perline=8&theme=dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nunnavamsi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=9B72F2&text_color=C9D1D9" alt="GitHub statistics"/>
 
-</div>
-
----
-
-## 🛡️ Cybersecurity
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004488?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp"/>
-
-</div>
-
-**Focus:** Web Security • OWASP Top 10 • Vulnerability Assessment • Secure Coding
-
----
-
-## 🚀 Featured Project
-
-### 💰 BudgetBuddy — Privacy-First Expense Tracker
-
-A Flutter expense tracker featuring:
-
-- 📊 Expense tracking and financial insights
-- 🔐 Encrypted local storage
-- 📱 SMS-based transaction detection
-- 📄 PDF and Excel reports
-- 🌙 Modern light and dark themes
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nunnavamsi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9c&icon_color=7b2ff7&text_color=40c9c6&bg_color=1f202b" alt="GitHub Statistics"/>
-
-<!-- Custom Language Distribution -->
-<img width="49%" src="https://quickchart.io/chart?width=500&height=280&backgroundColor=%231f202b&c={type:'doughnut',data:{labels:['Python','Dart','JavaScript','TypeScript'],datasets:[{data:[50,30,10,10],backgroundColor:['%2300ff9c','%237b2ff7','%2340c9c6','%23ff4d6d'],borderWidth:0}]},options:{plugins:{title:{display:true,text:'Most%20Used%20Languages',color:'%2300ff9c',font:{size:20}},legend:{position:'bottom',labels:{color:'white',padding:15}}}}}" alt="Custom Language Distribution"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunnavamsi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
 
 <br/><br/>
 
-<!-- Contribution Streak -->
-<img width="75%" src="https://streak-stats.demolab.com?user=nunnavamsi&theme=tokyonight&hide_border=true&ring=7b2ff7&fire=00ff9c&currStreakLabel=00ff9c" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<!-- Contribution Activity -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nunnavamsi&bg_color=1f202b&color=00ff9c&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Graph"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=nunnavamsi&hide_border=true&background=0D1117&ring=9B72F2&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
-```
-## 🤝 Connect With Me
+
+---
+
+## Currently Exploring
+
+- Building backend applications with Python and Django.
+- Developing mobile applications using Flutter.
+- Improving application security skills.
+- Exploring AI agents and automation.
+- Learning better software architecture and deployment practices.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/nunnavamsi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+### BUILD · SECURE · INNOVATE
+
+*Good software solves problems. Great software considers security from the beginning.*
+
+<br/>
+
+<a href="https://github.com/nunnavamsi?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00FF9C?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
-
-<a href="https://linkedin.com/in/YOUR-PROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br/><br/>
-
-**⚡ BUILD • SECURE • INNOVATE ⚡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>

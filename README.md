@@ -81,18 +81,24 @@ A Flutter expense tracker featuring:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nunnavamsi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9c&icon_color=7b2ff7"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nunnavamsi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9c&icon_color=7b2ff7&text_color=40c9c6&bg_color=1f202b" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunnavamsi&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9c"/>
+<!-- Custom Language Distribution -->
+<img width="49%" src="https://quickchart.io/chart?width=500&height=280&backgroundColor=%231f202b&c={type:'doughnut',data:{labels:['Python','Dart','JavaScript','TypeScript'],datasets:[{data:[50,30,10,10],backgroundColor:['%2300ff9c','%237b2ff7','%2340c9c6','%23ff4d6d'],borderWidth:0}]},options:{plugins:{title:{display:true,text:'Most%20Used%20Languages',color:'%2300ff9c',font:{size:20}},legend:{position:'bottom',labels:{color:'white',padding:15}}}}}" alt="Custom Language Distribution"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=nunnavamsi&theme=tokyonight&hide_border=true&ring=7b2ff7&fire=00ff9c"/>
+<!-- Contribution Streak -->
+<img width="75%" src="https://streak-stats.demolab.com?user=nunnavamsi&theme=tokyonight&hide_border=true&ring=7b2ff7&fire=00ff9c&currStreakLabel=00ff9c" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Activity -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nunnavamsi&bg_color=1f202b&color=00ff9c&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Graph"/>
 
 </div>
-
----
-
+```
 ## 🤝 Connect With Me
 
 <div align="center">

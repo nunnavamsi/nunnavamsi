@@ -71,8 +71,6 @@ I'm building a second career focus in application security, learning how web app
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
 
-> All testing is done on authorized targets and practice labs only.
-
 ---
 
 <sub>Build. Secure. Never stop learning.</sub>

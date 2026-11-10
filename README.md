@@ -1,10 +1,15 @@
-# Hi, I'm Vamsi 👋
+<h1 align="center">Hi, I'm Vamsi 👋</h1>
 
-**Full-stack developer** and **cybersecurity learner** building practical software, exploring AI agents, and securing what I build.
+<p align="center">
+  <b>Full-stack developer</b> and <b>cybersecurity learner</b><br/>
+  building practical software, exploring AI agents, and securing what I build.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nunnavamsi-181717?style=flat&logo=github)](https://github.com/nunnavamsi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+<p align="center">
+  <a href="https://github.com/nunnavamsi"><img src="https://img.shields.io/badge/GitHub-nunnavamsi-181717?style=flat&logo=github" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
@@ -70,6 +75,8 @@ I'm building a second career focus in application security, learning how web app
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
+
+> All testing is done on authorized targets and practice labs only.
 
 ---
 
